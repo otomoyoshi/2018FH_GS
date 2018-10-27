@@ -1,0 +1,11 @@
+/.bash_history
+/.bash_logout
+/.bashrc
+.cache/
+/.cloud-locale-test.skip
+/.gitignore.swp
+/.profile
+.ssh/
+.vim/
+/.viminfo
+
