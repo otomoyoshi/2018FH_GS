@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+		<id>https://itunes.apple.com/jp/rss/topsongs/limit=10/xml</id><title>iTunes Store: トップソング</title><updated>2018-10-27T18:05:51-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&amp;id=1000&amp;popId=1"/><link rel="self" href="https://itunes.apple.com/jp/rss/topsongs/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/jp/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2018-10-27T18:05:51-07:00</updated>
+				
+					<id im:id="1354291833">https://itunes.apple.com/jp/album/lemon/1354291125?i=1354291833&amp;uo=2</id>
+				
+					<title>Lemon - 米津玄師</title>
+				
+					
+				
+					<im:name>Lemon</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/lemon/1354291125?i=1354291833&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/79/b2/79/79b2799e-b24a-e9b4-7196-57e77c4907c0/mzaf_9210412133184681703.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2">米津玄師</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/31/c7/3e/31c73ea4-3d53-2c5a-ed68-701600d05a6f/jacket_SRCL09749B01A_550.jpg/55x55bb-85.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/31/c7/3e/31c73ea4-3d53-2c5a-ed68-701600d05a6f/jacket_SRCL09749B01A_550.jpg/60x60bb-85.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/31/c7/3e/31c73ea4-3d53-2c5a-ed68-701600d05a6f/jacket_SRCL09749B01A_550.jpg/170x170bb-85.png</im:image>
+				
+					<rights>&#8471; 2018 Sony Music Records</rights>
+				
+					<im:releaseDate label="2018年2月12日 ">2018-02-12T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Lemon - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/lemon-single/1354291125?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/lemon/1354291125?i=1354291833&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;米津玄師 - Lemon アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/31/c7/3e/31c73ea4-3d53-2c5a-ed68-701600d05a6f/jacket_SRCL09749B01A_550.jpg/100x100bb-85.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/lemon/1354291125?i=1354291833&amp;uo=2&quot;&gt;Lemon&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/lemon-single/1354291125?uo=2&quot;&gt;Lemon - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2&quot;&gt;米津玄師&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2018年2月12日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2018 Sony Music Records&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2018-10-27T18:05:51-07:00</updated>
+				
+					<id im:id="1438144188">https://itunes.apple.com/jp/album/%E4%BB%8A%E5%A4%9C%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE/1438144187?i=1438144188&amp;uo=2</id>
+				
+					<title>今夜このまま - あいみょん</title>
+				
+					
+				
+					<im:name>今夜このまま</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E4%BB%8A%E5%A4%9C%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE/1438144187?i=1438144188&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/4a/38/a4/4a38a439-abb5-0749-fa15-4a45a5b48f1d/mzaf_1751032193184717336.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/1165017710?uo=2">あいみょん</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/bf/58/6f/bf586fc4-99ae-bb82-fe5e-f50f040d2e2a/190295528652.jpg/55x55bb-85.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/bf/58/6f/bf586fc4-99ae-bb82-fe5e-f50f040d2e2a/190295528652.jpg/60x60bb-85.png</im:image>
+				
+					<im:image height="170">https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/bf/58/6f/bf586fc4-99ae-bb82-fe5e-f50f040d2e2a/190295528652.jpg/170x170bb-85.png</im:image>
+				
+					<rights>&#8471; 2018 WARNER MUSIC JAPAN INC.</rights>
+				
+					<im:releaseDate label="2018年11月14日 ">2018-11-14T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>今夜このまま - EP</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/let-the-night-ep/1438144187?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E4%BB%8A%E5%A4%9C%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE/1438144187?i=1438144188&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;あいみょん - 今夜このまま アートワーク&quot; src=&quot;https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/bf/58/6f/bf586fc4-99ae-bb82-fe5e-f50f040d2e2a/190295528652.jpg/100x100bb-85.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E4%BB%8A%E5%A4%9C%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE/1438144187?i=1438144188&amp;uo=2&quot;&gt;今夜このまま&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/let-the-night-ep/1438144187?uo=2&quot;&gt;今夜このまま - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/1165017710?uo=2&quot;&gt;あいみょん&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース予定日:&lt;/b&gt; 2018年11月14日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2018 WARNER MUSIC JAPAN INC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2018-10-27T18:05:51-07:00</updated>
+				
+					<id im:id="1437259910">https://itunes.apple.com/jp/album/adamas/1437259906?i=1437259910&amp;uo=2</id>
+				
+					<title>ADAMAS - LiSA</title>
+				
+					
+				
+					<im:name>ADAMAS</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/adamas/1437259906?i=1437259910&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/3d/23/90/3d2390e4-141d-9d9c-6c00-2210bc393eed/mzaf_4743940620007003133.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/lisa/573943518?uo=2">LiSA</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/e1/e0/81/e1e0812f-8345-e066-ffc6-1a1f90500ea3/jacket_VVXX00325B01A_550.jpg/55x55bb-85.png</im:image>
+				
+					<im:image height="60">https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/e1/e0/81/e1e0812f-8345-e066-ffc6-1a1f90500ea3/jacket_VVXX00325B01A_550.jpg/60x60bb-85.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/e1/e0/81/e1e0812f-8345-e066-ffc6-1a1f90500ea3/jacket_VVXX00325B01A_550.jpg/170x170bb-85.png</im:image>
+				
+					<rights>&#8471; 2018 SACRA MUSIC</rights>
+				
+					<im:releaseDate label="2018年10月8日 ">2018-10-08T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>ADAMAS - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/adamas-single/1437259906?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/adamas/1437259906?i=1437259910&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;LiSA - ADAMAS アートワーク&quot; src=&quot;https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/e1/e0/81/e1e0812f-8345-e066-ffc6-1a1f90500ea3/jacket_VVXX00325B01A_550.jpg/100x100bb-85.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/adamas/1437259906?i=1437259910&amp;uo=2&quot;&gt;ADAMAS&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/adamas-single/1437259906?uo=2&quot;&gt;ADAMAS - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/lisa/573943518?uo=2&quot;&gt;LiSA&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2018年10月8日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2018 SACRA MUSIC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2018-10-27T18:05:51-07:00</updated>
+				
+					<id im:id="1438704586">https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9/1438704585?i=1438704586&amp;uo=2</id>
+				
+					<title>アイリス - 藍井エイル</title>
+				
+					
+				
+					<im:name>アイリス</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9/1438704585?i=1438704586&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/aa/32/80/aa328037-e890-25f4-e96c-956340922ca5/mzaf_6116661350682757539.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E8%97%8D%E4%BA%95%E3%82%A8%E3%82%A4%E3%83%AB/569938402?uo=2">藍井エイル</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/db/8b/72/db8b72a2-b622-6f82-0d24-3a7f48f68e36/jacket_VVCL01353B01A_550.jpg/55x55bb-85.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/db/8b/72/db8b72a2-b622-6f82-0d24-3a7f48f68e36/jacket_VVCL01353B01A_550.jpg/60x60bb-85.png</im:image>
+				
+					<im:image height="170">https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/db/8b/72/db8b72a2-b622-6f82-0d24-3a7f48f68e36/jacket_VVCL01353B01A_550.jpg/170x170bb-85.png</im:image>
+				
+					<rights>&#8471; 2018 SACRA MUSIC</rights>
+				
+					<im:releaseDate label="2018年10月24日 ">2018-10-24T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>アイリス - EP</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9-ep/1438704585?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9/1438704585?i=1438704586&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;藍井エイル - アイリス アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/db/8b/72/db8b72a2-b622-6f82-0d24-3a7f48f68e36/jacket_VVCL01353B01A_550.jpg/100x100bb-85.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9/1438704585?i=1438704586&amp;uo=2&quot;&gt;アイリス&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9-ep/1438704585?uo=2&quot;&gt;アイリス - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E8%97%8D%E4%BA%95%E3%82%A8%E3%82%A4%E3%83%AB/569938402?uo=2&quot;&gt;藍井エイル&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2018年10月24日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2018 SACRA MUSIC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2018-10-27T18:05:51-07:00</updated>
+				
+					<id im:id="1438808253">https://itunes.apple.com/jp/album/%E8%8A%B1/1438808249?i=1438808253&amp;uo=2</id>
+				
+					<title>花 - 秦 基博</title>
+				
+					
+				
+					<im:name>花</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E8%8A%B1/1438808249?i=1438808253&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/17/96/30/179630ed-0ad8-15e6-a7bf-c672e20a3e96/mzaf_5949892891183641768.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E7%A7%A6-%E5%9F%BA%E5%8D%9A/293454653?uo=2">秦 基博</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/08/f3/3e/08f33e25-38b8-4723-18ec-53e3514b9864/00602577002519.rgb.jpg/55x55bb-85.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/08/f3/3e/08f33e25-38b8-4723-18ec-53e3514b9864/00602577002519.rgb.jpg/60x60bb-85.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/08/f3/3e/08f33e25-38b8-4723-18ec-53e3514b9864/00602577002519.rgb.jpg/170x170bb-85.png</im:image>
+				
+					<rights>An AUGUSTA RECORDS release; &#8471; 2018 UNIVERSAL MUSIC LLC</rights>
+				
+					<im:releaseDate label="2018年10月26日 ">2018-10-26T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>花 - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/hana-single/1438808249?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E8%8A%B1/1438808249?i=1438808253&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;秦 基博 - 花 アートワーク&quot; src=&quot;https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/08/f3/3e/08f33e25-38b8-4723-18ec-53e3514b9864/00602577002519.rgb.jpg/100x100bb-85.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E8%8A%B1/1438808249?i=1438808253&amp;uo=2&quot;&gt;花&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/hana-single/1438808249?uo=2&quot;&gt;花 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E7%A7%A6-%E5%9F%BA%E5%8D%9A/293454653?uo=2&quot;&gt;秦 基博&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2018年10月26日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; An AUGUSTA RECORDS release; ℗ 2018 UNIVERSAL MUSIC LLC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2018-10-27T18:05:51-07:00</updated>
+				
+					<id im:id="1438094255">https://itunes.apple.com/jp/album/%E8%A9%B1%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84%E3%82%88/1438094254?i=1438094255&amp;uo=2</id>
+				
+					<title>話がしたいよ - BUMP OF CHICKEN</title>
+				
+					
+				
+					<im:name>話がしたいよ</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E8%A9%B1%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84%E3%82%88/1438094254?i=1438094255&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/99/f6/1a/99f61a5a-0e9b-70db-9866-e9017e815ab7/mzaf_562745950363858305.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/bump-of-chicken/185088141?uo=2">BUMP OF CHICKEN</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/74/3f/4e/743f4eff-fb61-ba93-a233-ca1ae0172e4f/TFCC-89666WW.jpg/55x55bb-85.png</im:image>
+				
+					<im:image height="60">https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/74/3f/4e/743f4eff-fb61-ba93-a233-ca1ae0172e4f/TFCC-89666WW.jpg/60x60bb-85.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/74/3f/4e/743f4eff-fb61-ba93-a233-ca1ae0172e4f/TFCC-89666WW.jpg/170x170bb-85.png</im:image>
+				
+					<rights>&#8471; 2018 TOY&#39;S FACTORY / LONGFELLOW / MOR</rights>
+				
+					<im:releaseDate label="2018年11月14日 ">2018-11-14T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>話がしたいよ/シリウス/Spica - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/hanashigashitaiyo-sirius-spica-single/1438094254?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E8%A9%B1%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84%E3%82%88/1438094254?i=1438094255&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;BUMP OF CHICKEN - 話がしたいよ アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/74/3f/4e/743f4eff-fb61-ba93-a233-ca1ae0172e4f/TFCC-89666WW.jpg/100x100bb-85.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E8%A9%B1%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84%E3%82%88/1438094254?i=1438094255&amp;uo=2&quot;&gt;話がしたいよ&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/hanashigashitaiyo-sirius-spica-single/1438094254?uo=2&quot;&gt;話がしたいよ/シリウス/Spica - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/bump-of-chicken/185088141?uo=2&quot;&gt;BUMP OF CHICKEN&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース予定日:&lt;/b&gt; 2018年11月14日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2018 TOY'S FACTORY / LONGFELLOW / MOR&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2018-10-27T18:05:51-07:00</updated>
+				
+					<id im:id="1387753665">https://itunes.apple.com/jp/album/u-s-a/1387753663?i=1387753665&amp;uo=2</id>
+				
+					<title>U.S.A. - DA PUMP</title>
+				
+					
+				
+					<im:name>U.S.A.</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/u-s-a/1387753663?i=1387753665&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview125/v4/eb/01/33/eb013309-e9d3-c92f-405a-0e0a63e7c6e5/mzaf_8574916800059207905.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/da-pump/73965669?uo=2">DA PUMP</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/59/2b/39/592b3946-3aa1-e09c-2378-6e6a497e15ca/dj.wbgjeyxk.jpg/55x55bb-85.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/2b/39/592b3946-3aa1-e09c-2378-6e6a497e15ca/dj.wbgjeyxk.jpg/60x60bb-85.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/2b/39/592b3946-3aa1-e09c-2378-6e6a497e15ca/dj.wbgjeyxk.jpg/170x170bb-85.png</im:image>
+				
+					<rights>&#8471; 2018 AVEX ENTERTAINMENT INC.</rights>
+				
+					<im:releaseDate label="2018年6月6日 ">2018-06-06T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>U.S.A. - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/u-s-a-single/1387753663?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/u-s-a/1387753663?i=1387753665&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;DA PUMP - U.S.A. アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/59/2b/39/592b3946-3aa1-e09c-2378-6e6a497e15ca/dj.wbgjeyxk.jpg/100x100bb-85.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/u-s-a/1387753663?i=1387753665&amp;uo=2&quot;&gt;U.S.A.&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/u-s-a-single/1387753663?uo=2&quot;&gt;U.S.A. - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/da-pump/73965669?uo=2&quot;&gt;DA PUMP&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2018年6月6日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2018 AVEX ENTERTAINMENT INC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2018-10-27T18:05:51-07:00</updated>
+				
+					<id im:id="1414216695">https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%8E%E3%82%AB%E3%82%BF%E3%83%81-feat-hide-greeeen/1414216078?i=1414216695&amp;uo=2</id>
+				
+					<title>アイノカタチ feat.HIDE(GReeeeN) - MISIA</title>
+				
+					
+				
+					<im:name>アイノカタチ feat.HIDE(GReeeeN)</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%8E%E3%82%AB%E3%82%BF%E3%83%81-feat-hide-greeeen/1414216078?i=1414216695&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/77/be/ae/77beae85-b9e3-2179-4da2-56295ae83905/mzaf_1522418458073582677.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/misia/164283721?uo=2">MISIA</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/6b/26/e2/6b26e24c-8bde-3815-0f4b-e84223402f73/jacket_BVXX01113B01A_550.jpg/55x55bb-85.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/6b/26/e2/6b26e24c-8bde-3815-0f4b-e84223402f73/jacket_BVXX01113B01A_550.jpg/60x60bb-85.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6b/26/e2/6b26e24c-8bde-3815-0f4b-e84223402f73/jacket_BVXX01113B01A_550.jpg/170x170bb-85.png</im:image>
+				
+					<rights>&#8471; 2018 Ariola Japan</rights>
+				
+					<im:releaseDate label="2018年8月22日 ">2018-08-22T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>アイノカタチ feat.HIDE(GReeeeN) - EP</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%8E%E3%82%AB%E3%82%BF%E3%83%81-feat-hide-greeeen-ep/1414216078?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%8E%E3%82%AB%E3%82%BF%E3%83%81-feat-hide-greeeen/1414216078?i=1414216695&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;MISIA - アイノカタチ feat.HIDE(GReeeeN) アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/6b/26/e2/6b26e24c-8bde-3815-0f4b-e84223402f73/jacket_BVXX01113B01A_550.jpg/100x100bb-85.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%8E%E3%82%AB%E3%82%BF%E3%83%81-feat-hide-greeeen/1414216078?i=1414216695&amp;uo=2&quot;&gt;アイノカタチ feat.HIDE(GReeeeN)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%8E%E3%82%AB%E3%82%BF%E3%83%81-feat-hide-greeeen-ep/1414216078?uo=2&quot;&gt;アイノカタチ feat.HIDE(GReeeeN) - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/misia/164283721?uo=2&quot;&gt;MISIA&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2018年8月22日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2018 Ariola Japan&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2018-10-27T18:05:51-07:00</updated>
+				
+					<id im:id="1439859429">https://itunes.apple.com/jp/album/waste-it-on-me-feat-bts/1439859425?i=1439859429&amp;uo=2</id>
+				
+					<title>Waste It on Me (feat. BTS) - スティーヴ・アオキ</title>
+				
+					
+				
+					<im:name>Waste It on Me (feat. BTS)</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/waste-it-on-me-feat-bts/1439859425?i=1439859429&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="17" term="Dance" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%80%E3%83%B3%E3%82%B9/id17?uo=2" label="ダンス"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/8f/19/a7/8f19a7ff-08a4-04cc-ff17-da998e05878e/mzaf_2534082588384095270.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B4-%E3%82%A2%E3%82%AA%E3%82%AD/271066694?uo=2">スティーヴ・アオキ</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/e8/88/12/e8881275-d5e9-1c13-5252-751b22d0d8f8/0617465993756.jpg/55x55bb-85.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/e8/88/12/e8881275-d5e9-1c13-5252-751b22d0d8f8/0617465993756.jpg/60x60bb-85.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e8/88/12/e8881275-d5e9-1c13-5252-751b22d0d8f8/0617465993756.jpg/170x170bb-85.png</im:image>
+				
+					<rights>&#8471; 2018 Ultra Records, LLC</rights>
+				
+					<im:releaseDate label="2018年10月25日 ">2018-10-25T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Neon Future III</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/neon-future-iii/1439859425?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/waste-it-on-me-feat-bts/1439859425?i=1439859429&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;スティーヴ・アオキ - Waste It on Me (feat. BTS) アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/e8/88/12/e8881275-d5e9-1c13-5252-751b22d0d8f8/0617465993756.jpg/100x100bb-85.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/waste-it-on-me-feat-bts/1439859425?i=1439859429&amp;uo=2&quot;&gt;Waste It on Me (feat. BTS)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/neon-future-iii/1439859425?uo=2&quot;&gt;Neon Future III&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B4-%E3%82%A2%E3%82%AA%E3%82%AD/271066694?uo=2&quot;&gt;スティーヴ・アオキ&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%80%E3%83%B3%E3%82%B9/id17?uo=2&quot;&gt;ダンス&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2018年10月25日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2018 Ultra Records, LLC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2018-10-27T18:05:51-07:00</updated>
+				
+					<id im:id="1438346499">https://itunes.apple.com/jp/album/%E9%80%8F%E6%98%8E%E5%A3%B0%E5%BD%A9/1438346498?i=1438346499&amp;uo=2</id>
+				
+					<title>透明声彩 - YuNi</title>
+				
+					
+				
+					<im:name>透明声彩</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E9%80%8F%E6%98%8E%E5%A3%B0%E5%BD%A9/1438346498?i=1438346499&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="7" term="Electronic" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF/id7?uo=2" label="エレクトロニック"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/0f/56/b9/0f56b901-aae1-af2a-566d-70a4e5c06fde/mzaf_4836518594335771439.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/yuni/1438344769?uo=2">YuNi</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/c2/7c/24/c27c2456-5063-748c-8601-eb96b14f7ff8/859754497075_cover.jpg/55x55bb-85.png</im:image>
+				
+					<im:image height="60">https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/c2/7c/24/c27c2456-5063-748c-8601-eb96b14f7ff8/859754497075_cover.jpg/60x60bb-85.png</im:image>
+				
+					<im:image height="170">https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/c2/7c/24/c27c2456-5063-748c-8601-eb96b14f7ff8/859754497075_cover.jpg/170x170bb-85.png</im:image>
+				
+					<rights>&#8471; 2018 YuNi</rights>
+				
+					<im:releaseDate label="2018年10月26日 ">2018-10-26T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>透明声彩 - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E9%80%8F%E6%98%8E%E5%A3%B0%E5%BD%A9-single/1438346498?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E9%80%8F%E6%98%8E%E5%A3%B0%E5%BD%A9/1438346498?i=1438346499&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;YuNi - 透明声彩 アートワーク&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c2/7c/24/c27c2456-5063-748c-8601-eb96b14f7ff8/859754497075_cover.jpg/100x100bb-85.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E9%80%8F%E6%98%8E%E5%A3%B0%E5%BD%A9/1438346498?i=1438346499&amp;uo=2&quot;&gt;透明声彩&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E9%80%8F%E6%98%8E%E5%A3%B0%E5%BD%A9-single/1438346498?uo=2&quot;&gt;透明声彩 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/yuni/1438344769?uo=2&quot;&gt;YuNi&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF/id7?uo=2&quot;&gt;エレクトロニック&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2018年10月26日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2018 YuNi&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>
