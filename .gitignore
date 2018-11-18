@@ -10,6 +10,9 @@
 .ssh/
 .vim/
 /.viminfo
+/.config/
+/.nodebrew/
+/.node-gyp/
 
 # Logs
 logs
