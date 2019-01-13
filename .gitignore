@@ -13,6 +13,7 @@
 /.config/
 /.nodebrew/
 /.node-gyp/
+/workspace/haskell
 
 # Logs
 logs
